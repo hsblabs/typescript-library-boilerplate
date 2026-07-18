@@ -1,5 +1,5 @@
 {
-	"name": "@your-scope/your-package",
+	"name": "@hsblabs/your-package",
 	"version": "0.0.1",
 	"description": "A production-ready boilerplate for npm-publishable TypeScript libraries.",
 	"type": "module",
@@ -51,11 +51,11 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.4.5",
-		"@changesets/cli": "^2.30.0",
-		"@types/node": "^25.4.0",
-		"tsdown": "^0.21.2",
-		"typescript": "^5.9.3",
-		"vitest": "^4.0.18"
+		"@changesets/cli": "^2.31.0",
+		"@types/node": "^26.1.1",
+		"tsdown": "^0.22.5",
+		"typescript": "^7.0.2",
+		"vitest": "^4.1.10"
 	},
 	"exports": {
 		".": "./dist/index.js",
