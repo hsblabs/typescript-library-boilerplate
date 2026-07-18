@@ -1,2 +1,4 @@
-ignoredBuiltDependencies:
-  - esbuild
+allowBuilds:
+  esbuild: true
+minimumReleaseAge: 10080
+saveExact: true
